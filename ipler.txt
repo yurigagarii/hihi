@@ -1,5 +1,5 @@
 {
-  [[SesSistemi],
+  {[SesSistemi],
 				[217.195.202.67},
   },
 
